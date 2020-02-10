@@ -1,0 +1,14 @@
+Voxar Labs - CIn/UFPE, Recife, Brazil
+
+Copyright(c) 2019-2020 by Voxar Labs - CIn/UFPE
+
+This software ("MovementAnalysis") is the confidential and proprietary information
+of Voxar Labs - Center of Informatics of the Federal University 
+of Pernambuco ("Confidential Information"). You
+shall not disclose such Confidential Information and shall use
+it only in accordance with the terms of the license agreement
+you entered into with Voxar Labs - CIn/UFPE.
+
+@voxarlabs Voxar Labs (voxarlabs@cin.ufpe.br)
+
+@since 2019-02-12
